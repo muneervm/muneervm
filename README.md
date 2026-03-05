@@ -1,4 +1,4 @@
-in this i created the section of readme file :   its showing muneer vm two times when i enterd   th code :<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/muneervm/muneervm/main/banner.png" alt="Mohammed Muneer - Software Developer Banner" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Mohammed Muneer vm</h1>
