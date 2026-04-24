@@ -18,11 +18,31 @@
 - ⚡ Fun fact **I'm transitioning from Flutter to Full-Stack Development**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-muneer-vm-2139322b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed muneer vm" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohammedmuneer.vm.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed muneer" height="30" width="40" /></a>
-<a href="https://instagram.com/_mohmd_muneer__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohmd_muneer_" height="30" width="40" /></a>
-</p>
+
+<table align="left">
+  <tr>
+    <td align="center" width="60">
+      <a href="https://linkedin.com/in/mohammed-muneer-vm-2139322b4" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/>
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.facebook.com/mohammedmuneer.vm.5" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" alt="Facebook"/>
+        <br/>Facebook
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://instagram.com/_mohmd_muneer__" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram"/>
+        <br/>Instagram
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="both"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
