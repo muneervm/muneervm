@@ -128,12 +128,12 @@
         <br/>Postman
       </a>
     </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3"/>
-        <br/>CSS3
-      </a>
-    </td>
+   <td align="center" width="96">
+  <a href="https://restfulapi.net/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="48" height="48" alt="REST API"/>
+    <br/>REST API
+  </a>
+</td>
   </tr>
 </table>
 
